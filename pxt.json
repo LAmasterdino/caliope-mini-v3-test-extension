@@ -1,10 +1,9 @@
 {
     "name": "led-blinken",
-    "version": "0.0.1",
-    "description": "Lässt eine LED an einem frei wählbaren Pin in einem angegebenen Intervall blinken.",
+    "version": "0.0.2",
+    "description": "LED an einem frei wählbaren Pin blinken lassen.",
     "dependencies": {
-        "core": "*",
-        "calliope-mini": "*"
+        "core": "*"
     },
     "files": [
         "main.ts"
